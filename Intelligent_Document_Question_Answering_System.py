@@ -247,7 +247,7 @@ def show_project_flow():
 # =========================================================
 
 st.set_page_config(
-    page_title="Marvellous Infosystems | Intelligent Document QA System",
+    page_title=" Intelligent Document QA System",
     page_icon="📘",
     layout="wide"
 )
